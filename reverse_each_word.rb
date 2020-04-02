@@ -1,3 +1,3 @@
 def reverse_each_word(sentence1)
-  original = 
+  original = sentence1.
 end
