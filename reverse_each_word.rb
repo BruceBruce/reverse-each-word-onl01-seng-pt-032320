@@ -7,7 +7,7 @@ end
 new.join(" ")
 end
 
-def reverse_each_word(sentence2)
+def reverse_each_word_with_collect(sentence2)
   array = string.split(" ")
   test_array = []
   array.collect do|string|
