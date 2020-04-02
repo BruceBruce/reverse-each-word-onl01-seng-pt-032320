@@ -7,4 +7,5 @@ end
 new.join(" ")
 end
 
-def 
+def reverse_each_word(sentence2)
+  
