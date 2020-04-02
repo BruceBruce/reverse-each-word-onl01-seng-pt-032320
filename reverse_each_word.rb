@@ -8,7 +8,7 @@ new.join(" ")
 end
 
 def reverse_each_word_with_collect(sentence2)
-  array = string.split(" ")
+  array = sentence2.split(" ")
   test_array = []
   array.collect do|string|
     test_array << string.reverse
